@@ -1,0 +1,37 @@
+body{
+    background-color: #ddd;
+    font-family: arial 'Arial Narrow', Arial, sans-serif;
+    color: #444;
+    line-height: 1.5;
+}
+
+h2 {
+    font-size: 30px;
+    font-weight: bold;
+    color: #db8102;
+    line-height: 2.5;
+}
+
+table {
+    width: 100%; 
+    border-collapse: collapse; 
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 8px;
+}
+
+.fundo-cinza {
+    background-color: #919191;
+    font-weight: bold;
+}
+
+.coluna-principal {
+    font-weight: bold;
+}
