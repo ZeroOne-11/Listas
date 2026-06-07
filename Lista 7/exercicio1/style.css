@@ -1,0 +1,21 @@
+#formulario {
+  max-width: 400px;
+  margin: 50px auto;
+  border-radius: 8px;
+}
+
+input[type="text"],
+input[type="email"],
+textarea,
+select {
+  width: 100%;
+  display: inline-block;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  border-radius: 4pxs;
+}
+
+.obs {
+  display: block;
+  margin-bottom: 10px;
+}
